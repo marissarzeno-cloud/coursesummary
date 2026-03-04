@@ -1,0 +1,47 @@
+---
+title: "Data Science Course Reflection"
+author: "Marissa Zeno"
+output: html_document
+---
+
+# Weekly Learning Reflection
+
+## Week 1
+
+-   I learned about the **data science process**, including how problems are defined, data is collected, analyzed, and interpreted to produce insights.
+-   I learned how to **load data into R**, including importing datasets so they can be explored and analyzed.
+
+## Week 2
+
+-   I learned how to **explore datasets**, including examining variable types, distributions, and summary statistics.
+-   I learned how to **manage and manipulate data**, such as cleaning datasets and organizing variables for analysis.
+
+## Week 3
+
+-   I learned about the **assumptions of linear regression**, such as linearity, independence, normality, and homoscedasticity.
+-   I learned how to **build a linear regression model in R and use it to make predictions**.
+
+## Week 4
+
+-   I learned how to **build logistic regression models**, which are used for predicting categorical outcomes.
+-   I learned how to **generate predictions using logistic regression models**.
+
+## Week 5
+
+-   I learned about **Generalized Linear Models (GLM)** and how they extend traditional regression methods.
+-   I learned about **real-world applications of GLMs**, such as classification and modeling non-normal data.
+
+## Week 6
+
+-   I learned how **decision trees** work and how they split data into branches to make predictions.
+-   I learned about **ensemble methods**, including Random Forest and Gradient Boosting Machines, which improve predictive accuracy.
+
+## Week 7
+
+-   I learned about **cluster analysis**, which groups observations with similar characteristics.
+-   I learned about **Principal Component Analysis (PCA)** and how it reduces dimensionality in datasets.
+
+## Week 8
+
+-   I learned the importance of **documentation and deployment** when sharing data science projects.
+-   I learned how **communication is essential in data science**, especially when explaining results to stakeholders.
